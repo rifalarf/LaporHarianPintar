@@ -75,7 +75,7 @@ const App: React.FC = () => {
                 Input Ide Pokok
               </h2>
               <p className="text-slate-500 text-sm mt-1">
-                Masukkan poin-poin singkat. AI akan mengembangkannya menjadi paragraf formal (min. 100 kata).
+                Masukkan poin-poin singkat. AI akan mengembangkannya menjadi paragraf formal (min. 100 karakter).
               </p>
             </div>
 
